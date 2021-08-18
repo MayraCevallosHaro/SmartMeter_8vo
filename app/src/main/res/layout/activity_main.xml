@@ -9,12 +9,12 @@
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="378dp"
-        android:layout_height="151dp"
+        android:layout_height="165dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="405dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginEnd="9dp"
         app:srcCompat="@drawable/loading" />
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_alignBottom="@+id/imageView5"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="133dp"
-        android:layout_marginBottom="-46dp"
+        android:layout_marginBottom="-62dp"
         android:fontFamily="sans-serif"
         android:foregroundTint="@color/white"
         android:text="© Smart Meter 2021 - All rights reserved"
@@ -39,19 +39,20 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="416dp"
-        android:layout_height="379dp"
+        android:layout_width="386dp"
+        android:layout_height="303dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginStart="-5dp"
-        android:layout_marginLeft="-5dp"
-        android:layout_marginTop="61dp"
-        android:layout_marginEnd="0dp"
-        android:layout_marginRight="0dp"
-        app:srcCompat="@drawable/luz" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="86dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginRight="14dp"
+        app:srcCompat="@drawable/sfondo" />
 
     <ProgressBar
         android:id="@+id/progressBar"
