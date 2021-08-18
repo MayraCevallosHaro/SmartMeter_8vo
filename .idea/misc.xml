@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mayra/AndroidStudioProjects/SmartMeter_8vo2/app/src/main/res/drawable-v24/boton_consumo.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/mayra/AndroidStudioProjects/SmartMeter_8vo2/app/src/main/res/drawable-v24/button.xml" value="0.1" />
         <entry key="..\:/Users/mayra/AndroidStudioProjects/SmartMeter_8vo2/app/src/main/res/drawable-v24/icon_usuario.xml" value="0.1" />
         <entry key="..\:/Users/mayra/AndroidStudioProjects/SmartMeter_8vo2/app/src/main/res/layout/activity_home.xml" value="0.25" />
